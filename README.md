@@ -13,5 +13,5 @@ npm run build
 
 npm run serve
 
-if it does not open the browser automatically, go to http://localhost:8000/ (It should open the tvify page)
+if it does not open the browser automatically, go to http://localhost:3000/ (It should open the tvify page)
 
